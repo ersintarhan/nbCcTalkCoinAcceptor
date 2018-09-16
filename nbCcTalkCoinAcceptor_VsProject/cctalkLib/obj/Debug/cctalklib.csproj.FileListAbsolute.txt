@@ -17,3 +17,9 @@ C:\Users\Nikola\Desktop\nbBillCoinAcceptor\nbCcTalkCoinAcceptor\nbCcTalkCoinAcce
 C:\Users\Nikola\Desktop\nbBillCoinAcceptor\nbCcTalkCoinAcceptor\nbCcTalkCoinAcceptor\cctalkLib\bin\Debug\CctalkLib.dll
 C:\Users\Nikola\Desktop\nbBillCoinAcceptor\nbCcTalkCoinAcceptor\nbCcTalkCoinAcceptor\cctalkLib\bin\Debug\CctalkLib.pdb
 C:\Users\Nikola\Desktop\nbBillCoinAcceptor\nbCcTalkCoinAcceptor\nbCcTalkCoinAcceptor\cctalkLib\obj\Debug\CctalkLib.pdb
+C:\Dev\nbCcTalkCoinAcceptor\nbCcTalkCoinAcceptor_VsProject\cctalkLib\bin\Debug\CctalkLib.dll
+C:\Dev\nbCcTalkCoinAcceptor\nbCcTalkCoinAcceptor_VsProject\cctalkLib\bin\Debug\CctalkLib.pdb
+C:\Dev\nbCcTalkCoinAcceptor\nbCcTalkCoinAcceptor_VsProject\cctalkLib\obj\Debug\cctalklib.csprojResolveAssemblyReference.cache
+C:\Dev\nbCcTalkCoinAcceptor\nbCcTalkCoinAcceptor_VsProject\cctalkLib\obj\Debug\cctalklib.csproj.CoreCompileInputs.cache
+C:\Dev\nbCcTalkCoinAcceptor\nbCcTalkCoinAcceptor_VsProject\cctalkLib\obj\Debug\CctalkLib.dll
+C:\Dev\nbCcTalkCoinAcceptor\nbCcTalkCoinAcceptor_VsProject\cctalkLib\obj\Debug\CctalkLib.pdb
